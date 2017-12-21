@@ -1,4 +1,4 @@
-#Trabalho de Férias - LP2
+# Trabalho de Férias - LP2
 
 Comandos git:
 
