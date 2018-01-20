@@ -1,0 +1,12 @@
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\app\bin\Debug\netcoreapp2.0\app.deps.json
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\app\bin\Debug\netcoreapp2.0\app.runtimeconfig.json
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\app\bin\Debug\netcoreapp2.0\app.runtimeconfig.dev.json
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\app\bin\Debug\netcoreapp2.0\app.dll
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\app\bin\Debug\netcoreapp2.0\app.pdb
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\app\bin\Debug\netcoreapp2.0\bll.dll
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\app\bin\Debug\netcoreapp2.0\bll.pdb
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\app\obj\Debug\netcoreapp2.0\app.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\app\obj\Debug\netcoreapp2.0\app.AssemblyInfoInputs.cache
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\app\obj\Debug\netcoreapp2.0\app.AssemblyInfo.cs
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\app\obj\Debug\netcoreapp2.0\app.dll
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\app\obj\Debug\netcoreapp2.0\app.pdb

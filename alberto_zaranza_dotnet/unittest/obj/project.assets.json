@@ -1600,6 +1600,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "bll/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/bll.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/bll.dll": {}
+        }
       }
     }
   },
@@ -5610,6 +5620,11 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "bll/1.0.0": {
+      "type": "project",
+      "path": "../bll/bll.csproj",
+      "msbuildProject": "../bll/bll.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5617,7 +5632,8 @@
       "MSTest.TestAdapter >= 1.1.18",
       "MSTest.TestFramework >= 1.1.18",
       "Microsoft.NET.Test.Sdk >= 15.3.0",
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "bll >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5649,7 +5665,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Alberto Zaranza\\Documents\\BCC\\S5\\Linguagem de Programação 2\\Vacation\\lp220172vacation\\alberto_zaranza_dotnet\\bll\\bll.csproj": {
+              "projectPath": "C:\\Users\\Alberto Zaranza\\Documents\\BCC\\S5\\Linguagem de Programação 2\\Vacation\\lp220172vacation\\alberto_zaranza_dotnet\\bll\\bll.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

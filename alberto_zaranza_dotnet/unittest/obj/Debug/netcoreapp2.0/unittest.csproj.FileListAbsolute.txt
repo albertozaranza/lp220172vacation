@@ -1,0 +1,15 @@
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\unittest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\unittest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\unittest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\unittest\bin\Debug\netcoreapp2.0\unittest.deps.json
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\unittest\bin\Debug\netcoreapp2.0\unittest.runtimeconfig.json
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\unittest\bin\Debug\netcoreapp2.0\unittest.runtimeconfig.dev.json
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\unittest\bin\Debug\netcoreapp2.0\unittest.dll
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\unittest\bin\Debug\netcoreapp2.0\unittest.pdb
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\unittest\bin\Debug\netcoreapp2.0\bll.dll
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\unittest\bin\Debug\netcoreapp2.0\bll.pdb
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\unittest\obj\Debug\netcoreapp2.0\unittest.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\unittest\obj\Debug\netcoreapp2.0\unittest.AssemblyInfoInputs.cache
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\unittest\obj\Debug\netcoreapp2.0\unittest.AssemblyInfo.cs
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\unittest\obj\Debug\netcoreapp2.0\unittest.dll
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Vacation\lp220172vacation\alberto_zaranza_dotnet\unittest\obj\Debug\netcoreapp2.0\unittest.pdb

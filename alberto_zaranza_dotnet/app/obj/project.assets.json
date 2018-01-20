@@ -196,6 +196,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "bll/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/bll.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/bll.dll": {}
+        }
       }
     }
   },
@@ -656,11 +666,17 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "bll/1.0.0": {
+      "type": "project",
+      "path": "../bll/bll.csproj",
+      "msbuildProject": "../bll/bll.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "bll >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -692,7 +708,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Alberto Zaranza\\Documents\\BCC\\S5\\Linguagem de Programação 2\\Vacation\\lp220172vacation\\alberto_zaranza_dotnet\\bll\\bll.csproj": {
+              "projectPath": "C:\\Users\\Alberto Zaranza\\Documents\\BCC\\S5\\Linguagem de Programação 2\\Vacation\\lp220172vacation\\alberto_zaranza_dotnet\\bll\\bll.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
