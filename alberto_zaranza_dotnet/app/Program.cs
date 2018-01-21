@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Collections.Generic;
 using bll;
 
 namespace app
@@ -35,7 +35,27 @@ namespace app
                 operacao.Dividir(a,b);
             }else {
                 Console.WriteLine("Opção inválida");
+                return;
             }
+
+            List<int> list = new List<int>();
+
+            list.Add(a);
+            list.Add(b);
+            
+            Console.WriteLine("Lista com os números inseridos:");
+            
+            for(int i = 0; i < list.Count; i++){
+                Console.WriteLine(list[i]);
+            }
+
+            Console.WriteLine("Dicionário com os números inseridos:");
+
+            Dictionary<int, int> dictionary = new Dictionary<int, int>(){
+                {a, b}
+            };
+
+            Console.WriteLine($"Para o número {a}, temos o par {dictionary[a]}");
         }
     }
 }
